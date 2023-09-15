@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"> 
 
-- 🌱 I’m currently learning **Spring,**
+- 🌱 I’m currently learning **Node.js,Express.js**
 
 - 💬 Ask me about **Servlets, JSP and Jdbc.**
 
