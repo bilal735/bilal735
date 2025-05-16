@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/bilal735/bilal735/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"> 
 
 - 🌱 I’m currently learning **Node.js,Express.js**
